@@ -1,0 +1,46 @@
+body{
+	background-color: lightblue;
+}
+.wrapper{
+	width:80%;
+	margin:0 auto;
+	background-color: ivory;
+	height: 70vh;
+}
+
+h1{
+	font-size:6em;
+	color:#333333;
+	text-align: center;
+}
+
+nav{
+	background-color: goldenrod;
+}
+
+ul{
+	display:flex;
+	justify-content: space-around;
+	padding:0;
+}
+
+a{
+	text-decoration: none;
+	font-size:2em;
+}
+
+a:link{
+	color:ivory;
+}
+
+a:visited{
+	color: lavender;
+}
+
+a:hover{
+	color: lightpink;
+}
+
+li{
+	 list-style-type: none;
+}
